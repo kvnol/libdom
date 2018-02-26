@@ -3,9 +3,7 @@
   "version": "0.0.1",
   "description": "Biblioteca DOM criada a partir do curso JavaScript Ninja do @fdaciuk",
   "main": "./dist/libdom.js",
-  "scripts": {
-
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kvnol/libdom.git"
@@ -20,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/kvnol/libdom/issues"
   },
-  "homepage": "https://github.com/kvnol/libdom#readme"
+  "homepage": "https://github.com/kvnol/libdom#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.0.0-beta.32",
+    "@babel/core": "^7.0.0-beta.32",
+    "@babel/plugin-proposal-class-properties": "^7.0.0-beta.32",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0-beta.32",
+    "@babel/preset-env": "^7.0.0-beta.32",
+    "@babel/preset-typescript": "^7.0.0-beta.32",
+    "typescript": "^2.6.2"
+  }
 }
