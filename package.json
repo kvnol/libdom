@@ -13,7 +13,7 @@
     "js",
     "lib"
   ],
-  "author": "@kvnol",
+  "author": "Kevin Oliveira <me@kevinoliveira.com.br> (https://kevinoliveira.com.br/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kvnol/libdom/issues"
