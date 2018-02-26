@@ -1,0 +1,24 @@
+{
+  "name": "libdom",
+  "version": "0.0.1",
+  "description": "Biblioteca DOM criada a partir do curso JavaScript Ninja do @fdaciuk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvnol/libdom.git"
+  },
+  "keywords": [
+    "dom",
+    "js",
+    "lib"
+  ],
+  "author": "@kvnol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kvnol/libdom/issues"
+  },
+  "homepage": "https://github.com/kvnol/libdom#readme"
+}
