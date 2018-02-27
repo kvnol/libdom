@@ -1,0 +1,9 @@
+{
+  "files": [
+    "src/libdom.ts"
+  ],
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "target": "es5"
+  }
+}
